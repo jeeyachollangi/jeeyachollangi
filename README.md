@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Prabhas! 👋
+# Hey, I'm jeeya! 👋
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer;AI+Enthusiast;Cloud+Explorer;Problem+Solver" alt="Typing SVG" /></a>
 
@@ -17,11 +17,11 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name = "Prabhas Gorusu"
+        self.name = "Jeeya chollangi"
         self.location = "Kakinada, India 📍"
         self.current_work = "Building cool stuff with code"
         self.learning = ["Cloud Architecture", "System Design"]
-        self.fun_fact = "I can solve Rubik's cube in < 2 mins! 🎲"
+        self.fun_fact = "I can p< 2 mins! 🎲"
         
     def say_hi(self):
         print("Thanks for dropping by! Let's build something awesome together 🚀")
